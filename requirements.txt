@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+openai
+plotly
+imbalanced-learn
+xgboost
